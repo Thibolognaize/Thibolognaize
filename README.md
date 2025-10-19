@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m Thibault, a passionate developer based in Fr
 
 ## 🔧 **Technologies & Tools**
 - **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React
-- **Backend:** Node.js, Python, PHP, Java-Script
+- **Backend:** Node.js, Python, PHP, Java-Script, Express
 - **DevOps:** Git, GitHub Pages, SSH, Hostinger
 - **OS:** Ubuntu (main), Windows
 
